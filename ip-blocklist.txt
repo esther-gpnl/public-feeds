@@ -57,7 +57,6 @@
 45.38.0.0/16
 46.174.0.0/16
 5.104.0.0/16
-62.101.160.0/24
 62.192.0.0/16
 62.3.0.0/16
 77.91.0.0/16
@@ -72,3 +71,203 @@
 94.124.0.0/16
 95.173.0.0/16
 95.214.0.0/16
+2.56.188.0/22 # Clouvider
+45.86.208.0/22 # Clouvider
+92.119.16.0/22 # Clouvider
+162.120.68.0/22 # Clouvider
+173.255.160.0/22 # Clouvider
+178.238.8.0/22 # Clouvider
+185.42.220.0/22 # Clouvider
+185.145.200.0/22 # Clouvider
+185.164.136.0/22 # Clouvider
+185.175.136.0/22 # Clouvider
+185.195.104.0/22 # Clouvider
+185.198.188.0/22 # Clouvider
+200.162.156.0/22 # Clouvider
+216.169.132.0/22 # Clouvider
+216.169.136.0/22 # Clouvider
+216.169.140.0/22 # Clouvider
+5.253.112.0/23 # Clouvider
+45.140.42.0/23 # Clouvider
+45.144.112.0/23 # Clouvider
+45.144.114.0/23 # Clouvider
+45.149.172.0/23 # Clouvider
+45.150.174.0/23 # Clouvider
+62.182.96.0/23 # Clouvider
+62.182.98.0/23 # Clouvider
+94.154.156.0/23 # Clouvider
+103.103.98.0/23 # Clouvider
+103.214.44.0/23 # Clouvider
+103.214.46.0/23 # Clouvider
+103.219.20.0/23 # Clouvider
+130.185.164.0/23 # Clouvider
+176.67.80.0/23 # Clouvider
+185.91.122.0/23 # Clouvider
+185.141.56.0/23 # Clouvider
+185.141.58.0/23 # Clouvider
+185.164.138.0/23 # Clouvider
+185.169.232.0/23 # Clouvider
+185.174.110.0/23 # Clouvider
+185.177.148.0/23 # Clouvider
+185.193.156.0/23 # Clouvider
+185.193.158.0/23 # Clouvider
+185.195.56.0/23 # Clouvider
+185.195.58.0/23 # Clouvider
+193.239.236.0/23 # Clouvider
+194.49.52.0/23 # Clouvider
+194.124.76.0/23 # Clouvider
+194.127.172.0/23 # Clouvider
+194.127.178.0/23 # Clouvider
+209.46.102.0/23 # Clouvider
+209.107.192.0/23 # Clouvider
+216.131.116.0/23 # Clouvider
+2.56.190.0/24 # Clouvider
+2.56.191.0/24 # Clouvider
+2.57.148.0/24 # Clouvider
+2.58.72.0/24 # Clouvider
+2.58.73.0/24 # Clouvider
+5.1.46.0/24 # Clouvider
+5.42.218.0/24 # Clouvider
+5.57.210.0/24 # Clouvider
+5.57.211.0/24 # Clouvider
+5.104.72.0/24 # Clouvider
+5.104.73.0/24 # Clouvider
+5.104.74.0/24 # Clouvider
+5.133.110.0/24 # Clouvider
+5.180.62.0/24 # Clouvider
+5.180.208.0/24 # Clouvider
+5.180.210.0/24 # Clouvider
+5.180.211.0/24 # Clouvider
+5.252.188.0/24 # Clouvider
+5.252.189.0/24 # Clouvider
+5.252.190.0/24 # Clouvider
+5.252.191.0/24 # Clouvider
+5.253.114.0/24 # Clouvider
+5.253.115.0/24 # Clouvider
+23.230.125.0/24 # Clouvider
+31.41.38.0/24 # Clouvider
+31.41.39.0/24 # Clouvider
+31.41.253.0/24 # Clouvider
+31.171.128.0/24 # Clouvider
+31.216.60.0/24 # Clouvider
+31.222.237.0/24 # Clouvider
+31.222.244.0/24 # Clouvider
+31.222.245.0/24 # Clouvider
+31.222.246.0/24 # Clouvider
+31.222.247.0/24 # Clouvider
+37.140.255.0/24 # Clouvider
+45.8.17.0/24 # Clouvider
+45.11.25.0/24 # Clouvider
+45.15.74.0/24 # Clouvider
+45.38.140.0/24 # Clouvider
+45.80.157.0/24 # Clouvider
+45.80.221.0/24 # Clouvider
+45.80.222.0/24 # Clouvider
+45.80.223.0/24 # Clouvider
+45.82.81.0/24 # Clouvider
+45.84.139.0/24 # Clouvider
+45.85.145.0/24 # Clouvider
+45.86.210.0/24 # Clouvider
+45.86.230.0/24 # Clouvider
+45.87.124.0/24 # Clouvider
+45.87.125.0/24 # Clouvider
+160.224.0.0/15 # HostRoyale Technologies Pvt Ltd
+128.121.128.0/17 # HostRoyale Technologies Pvt Ltd
+209.139.0.0/17 # HostRoyale Technologies Pvt Ltd
+209.207.128.0/17 # HostRoyale Technologies Pvt Ltd
+198.64.128.0/18 # HostRoyale Technologies Pvt Ltd
+204.3.64.0/18 # HostRoyale Technologies Pvt Ltd
+206.204.0.0/18 # HostRoyale Technologies Pvt Ltd
+128.241.96.0/19 # HostRoyale Technologies Pvt Ltd
+128.242.128.0/19 # HostRoyale Technologies Pvt Ltd
+131.103.32.0/19 # HostRoyale Technologies Pvt Ltd
+131.103.64.0/19 # HostRoyale Technologies Pvt Ltd
+157.238.96.0/19 # HostRoyale Technologies Pvt Ltd
+161.123.160.0/19 # HostRoyale Technologies Pvt Ltd
+168.143.192.0/19 # HostRoyale Technologies Pvt Ltd
+192.204.160.0/19 # HostRoyale Technologies Pvt Ltd
+198.64.96.0/19 # HostRoyale Technologies Pvt Ltd
+198.64.192.0/19 # HostRoyale Technologies Pvt Ltd
+204.1.192.0/19 # HostRoyale Technologies Pvt Ltd
+204.3.0.0/19 # HostRoyale Technologies Pvt Ltd
+204.3.32.0/19 # HostRoyale Technologies Pvt Ltd
+69.161.128.0/20 # HostRoyale Technologies Pvt Ltd
+78.156.160.0/20 # HostRoyale Technologies Pvt Ltd
+94.139.224.0/20 # HostRoyale Technologies Pvt Ltd
+108.60.0.0/20 # HostRoyale Technologies Pvt Ltd
+128.241.64.0/20 # HostRoyale Technologies Pvt Ltd
+128.242.64.0/20 # HostRoyale Technologies Pvt Ltd
+128.242.160.0/20 # HostRoyale Technologies Pvt Ltd
+128.242.224.0/20 # HostRoyale Technologies Pvt Ltd
+128.242.240.0/20 # HostRoyale Technologies Pvt Ltd
+130.94.160.0/20 # HostRoyale Technologies Pvt Ltd
+130.94.176.0/20 # HostRoyale Technologies Pvt Ltd
+130.94.208.0/20 # HostRoyale Technologies Pvt Ltd
+130.94.224.0/20 # HostRoyale Technologies Pvt Ltd
+131.103.0.0/20 # HostRoyale Technologies Pvt Ltd
+131.103.32.0/20 # HostRoyale Technologies Pvt Ltd
+131.103.48.0/20 # HostRoyale Technologies Pvt Ltd
+131.103.96.0/20 # HostRoyale Technologies Pvt Ltd
+131.103.144.0/20 # HostRoyale Technologies Pvt Ltd
+140.174.112.0/20 # HostRoyale Technologies Pvt Ltd
+142.147.144.0/20 # HostRoyale Technologies Pvt Ltd
+153.79.112.0/20 # HostRoyale Technologies Pvt Ltd
+158.94.192.0/20 # HostRoyale Technologies Pvt Ltd
+160.224.80.0/20 # HostRoyale Technologies Pvt Ltd
+168.143.80.0/20 # HostRoyale Technologies Pvt Ltd
+168.143.160.0/20 # HostRoyale Technologies Pvt Ltd
+192.204.112.0/20 # HostRoyale Technologies Pvt Ltd
+192.204.128.0/20 # HostRoyale Technologies Pvt Ltd
+198.64.80.0/20 # HostRoyale Technologies Pvt Ltd
+198.64.224.0/20 # HostRoyale Technologies Pvt Ltd
+204.0.32.0/20 # HostRoyale Technologies Pvt Ltd
+204.1.144.0/20 # HostRoyale Technologies Pvt Ltd
+204.1.224.0/20 # HostRoyale Technologies Pvt Ltd
+204.3.48.0/20 # HostRoyale Technologies Pvt Ltd
+204.141.64.0/20 # HostRoyale Technologies Pvt Ltd
+31.98.128.0/21 # HostRoyale Technologies Pvt Ltd
+46.28.192.0/21 # HostRoyale Technologies Pvt Ltd
+58.97.128.0/21 # HostRoyale Technologies Pvt Ltd
+62.101.168.0/21 # HostRoyale Technologies Pvt Ltd
+62.101.176.0/21 # HostRoyale Technologies Pvt Ltd
+62.101.184.0/21 # HostRoyale Technologies Pvt Ltd
+85.89.192.0/21 # HostRoyale Technologies Pvt Ltd
+85.89.200.0/21 # HostRoyale Technologies Pvt Ltd
+85.89.208.0/21 # HostRoyale Technologies Pvt Ltd
+85.89.216.0/21 # HostRoyale Technologies Pvt Ltd
+94.139.48.0/21 # HostRoyale Technologies Pvt Ltd
+95.175.72.0/21 # HostRoyale Technologies Pvt Ltd
+104.204.200.0/21 # HostRoyale Technologies Pvt Ltd
+128.241.48.0/21 # HostRoyale Technologies Pvt Ltd
+128.241.56.0/21 # HostRoyale Technologies Pvt Ltd
+128.242.248.0/21 # HostRoyale Technologies Pvt Ltd
+130.94.176.0/21 # HostRoyale Technologies Pvt Ltd
+130.94.184.0/21 # HostRoyale Technologies Pvt Ltd
+160.224.0.0/21 # HostRoyale Technologies Pvt Ltd
+160.224.16.0/21 # HostRoyale Technologies Pvt Ltd
+160.224.72.0/21 # HostRoyale Technologies Pvt Ltd
+160.224.88.0/21 # HostRoyale Technologies Pvt Ltd
+160.224.136.0/21 # HostRoyale Technologies Pvt Ltd
+160.224.152.0/21 # HostRoyale Technologies Pvt Ltd
+160.225.120.0/21 # HostRoyale Technologies Pvt Ltd
+161.123.56.0/21 # HostRoyale Technologies Pvt Ltd
+161.123.200.0/21 # HostRoyale Technologies Pvt Ltd
+162.251.136.0/21 # HostRoyale Technologies Pvt Ltd
+165.217.104.0/21 # HostRoyale Technologies Pvt Ltd
+167.234.96.0/21 # HostRoyale Technologies Pvt Ltd
+167.234.104.0/21 # HostRoyale Technologies Pvt Ltd
+167.234.112.0/21 # HostRoyale Technologies Pvt Ltd
+167.234.120.0/21 # HostRoyale Technologies Pvt Ltd
+168.143.168.0/21 # HostRoyale Technologies Pvt Ltd
+176.119.8.0/21 # HostRoyale Technologies Pvt Ltd
+192.204.112.0/21 # HostRoyale Technologies Pvt Ltd
+192.204.120.0/21 # HostRoyale Technologies Pvt Ltd
+198.13.192.0/21 # HostRoyale Technologies Pvt Ltd
+198.13.208.0/21 # HostRoyale Technologies Pvt Ltd
+198.13.216.0/21 # HostRoyale Technologies Pvt Ltd
+198.13.224.0/21 # HostRoyale Technologies Pvt Ltd
+198.64.112.0/21 # HostRoyale Technologies Pvt Ltd
+198.64.200.0/21 # HostRoyale Technologies Pvt Ltd
+198.64.208.0/21 # HostRoyale Technologies Pvt Ltd
+207.29.200.0/21 # HostRoyale Technologies Pvt Ltd
+209.40.208.0/21 # HostRoyale Technologies Pvt Ltd
