@@ -289,3 +289,8 @@
 194.45.204.0/24 # AS208091 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com
 199.91.221.0/24 # AS398101 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com
 209.198.140.0/24 # AS398101 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com
+81.19.208.0/20 # AS25369 Hydra Communications Ltd, Hosting, abuse@zare.com, https://ipinfo.io/81.19.208.112
+167.148.180.0/24 # AS398101 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com, https://ipinfo.io/167.148.180.31
+212.8.249.0/24 # AS208091 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com, https://ipinfo.io/212.8.249.230
+212.34.129.0/24 # AS208091 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com, https://ipinfo.io/212.34.129.31
+186.247.76.190/32 # AS26599 TELEFONICA BRASIL S.A, ISP, abuse.br@telefonica.com, https://ipinfo.io/186.247.76.190
