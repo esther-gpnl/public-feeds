@@ -294,3 +294,62 @@
 212.8.249.0/24 # AS208091 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com, https://ipinfo.io/212.8.249.230
 212.34.129.0/24 # AS208091 HostRoyale Technologies Pvt Ltd, Hosting, abuse@hostroyale.com, https://ipinfo.io/212.34.129.31
 186.247.76.190/32 # AS26599 TELEFONICA BRASIL S.A, ISP, abuse.br@telefonica.com, https://ipinfo.io/186.247.76.190
+##############################################################################################################
+##########################RAUL ADD 11-11-26 WITH GEM##########################################################
+##############################################################################################################
+31.21.21.175/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/31.21.21.175
+31.201.16.231/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/31.201.16.231
+31.201.95.121/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/31.201.95.121
+37.153.230.202/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/37.153.230.202
+62.45.101.49/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/62.45.101.49
+62.45.220.34/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/62.45.220.34
+62.131.22.36/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/62.131.22.36
+62.163.170.245/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/62.163.170.245
+77.161.65.15/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/77.161.65.15
+77.161.249.20/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/77.161.249.20
+77.166.8.197/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/77.166.8.197
+77.166.176.12/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/77.166.176.12
+77.170.175.186/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/77.170.175.186
+77.174.196.192/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/77.174.196.192
+77.248.51.144/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/77.248.51.144
+80.56.27.206/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/80.56.27.206
+80.56.110.66/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/80.56.110.66
+80.60.110.203/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/80.60.110.203
+80.115.44.74/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/80.115.44.74
+81.204.17.171/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/81.204.17.171
+81.205.253.35/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/81.205.253.35
+82.169.42.140/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/82.169.42.140
+82.170.61.200/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/82.170.61.200
+82.174.202.251/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/82.174.202.251
+83.86.40.96/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/83.86.40.96
+84.24.226.178/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/84.24.226.178
+84.31.99.147/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/84.31.99.147
+84.85.142.228/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/84.85.142.228
+84.86.57.88/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/84.86.57.88
+84.86.94.128/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/84.86.94.128
+84.104.195.38/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/84.104.195.38
+85.223.72.115/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/85.223.72.115
+86.80.155.155/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/86.80.155.155
+86.83.128.163/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/86.83.128.163
+86.85.233.89/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/86.85.233.89
+86.90.3.92/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/86.90.3.92
+86.94.43.241/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/86.94.43.241
+87.210.139.101/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/87.210.139.101
+89.99.209.30/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/89.99.209.30
+92.108.241.85/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/92.108.241.85
+95.96.81.76/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/95.96.81.76
+95.97.117.178/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/95.97.117.178
+95.98.186.151/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/95.98.186.151
+95.99.102.129/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/95.99.102.129
+143.177.142.164/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/143.177.142.164
+143.178.159.202/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/143.178.159.202
+143.179.118.124/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/143.179.118.124
+188.88.203.69/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/188.88.203.69
+188.239.178.195/32 # AS1136 KPN B.V., ISP, abuse@kpn.com, https://ipinfo.io/188.239.178.195
+217.62.3.97/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/217.62.3.97
+217.120.187.18/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/217.120.187.18
+217.122.203.192/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/217.122.203.192
+217.123.193.6/32 # AS9143 Ziggo B.V., ISP, abuse@ziggo.nl, https://ipinfo.io/217.123.193.6
+##############################################################################################################
+##########################END OF: RAUL ADD 11-11-26 WITH GEM##################################################
+##############################################################################################################
